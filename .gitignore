@@ -7,3 +7,4 @@ static/dist/
 *.pyc
 __pycache__/
 *.sublime-workspace
+**/.venv
